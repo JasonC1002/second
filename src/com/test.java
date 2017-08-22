@@ -5,6 +5,9 @@ package com;
  */
 public class test {
     int x=9;
+    public int sum(){
+        return 1;
+    }
     public static void main(String[] args) {
 
     }
