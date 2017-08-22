@@ -8,6 +8,9 @@ public class test {
     public int sum(){
         return 1;
     }
+    public void print(){
+
+    }
     public static void main(String[] args) {
 
     }
